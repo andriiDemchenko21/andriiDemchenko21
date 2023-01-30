@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Andrii and I am a Web and mobile application developer 
+My name is Andrii and I am a web and mobile applications developer 
 
 <!--
 **andriiDemchenko21/andriiDemchenko21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
