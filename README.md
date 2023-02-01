@@ -1,6 +1,15 @@
 ### Hi there 👋
 My name is Andrii and I am a web and mobile applications developer 
 
+
+Technolodgy Stack:
+
+<p>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat"/>
+ </p>
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriiDemchenko21)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriiDemchenko21&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
