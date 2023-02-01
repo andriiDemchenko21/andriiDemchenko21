@@ -47,7 +47,7 @@ Technolodgy Stack:
   <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF?logo=Unity&logoColor=black&style=for-the-badge"/>
   <img alt="OBS Studio" src="https://img.shields.io/badge/OBS Studio-302E31?logo=OBS Studio&logoColor=white&style=for-the-badge"/>
   
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge"/>
   <img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache Tomcat-F8DC75?logo=Apache Tomcat&logoColor=black&style=for-the-badge"/>
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=Express&logoColor=white&style=for-the-badge"/>
   <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000?logo=JetBrains&logoColor=white&style=for-the-badge"/>
