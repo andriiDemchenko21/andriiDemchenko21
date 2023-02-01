@@ -3,6 +3,8 @@ My name is Andrii and I am a web and mobile applications developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriiDemchenko21)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriiDemchenko21&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriiDemchenko21&show_icons=true&theme=radical)
 <!--
