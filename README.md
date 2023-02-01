@@ -5,6 +5,8 @@ My name is Andrii and I am a web and mobile applications developer
 Technolodgy Stack:
 
 <p>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=flat"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white&style=flat"/>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
@@ -15,6 +17,7 @@ Technolodgy Stack:
   <img alt="PHP" src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white&style=flat"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat"/>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=flat"/>
+  <img alt="Git" src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=flat"/>
  </p>
 
 
