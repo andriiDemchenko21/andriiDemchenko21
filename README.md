@@ -67,6 +67,7 @@ Technolodgy Stack:
   <img alt="Windows 11" src="https://img.shields.io/badge/Windows 11-0078D6?logo=Windows 11&logoColor=white&style=for-the-badge"/>
   <img alt="macOS" src="https://img.shields.io/badge/macOS-0078D4?logo=macOS&logoColor=black&style=for-the-badge"/>
   <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?logo=iOS&logoColor=white&style=for-the-badge"/>
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=for-the-badge"/>
  </p>
  
 
