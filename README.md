@@ -32,6 +32,16 @@ Technolodgy Stack:
   <img alt="Java" src="https://img.shields.io/badge/Java-196D80?logo=java&logoColor=white&style=for-the-badge"/>
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge"/>
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge"/>
+  <img alt="Terminal" src="https://img.shields.io/badge/Terminal-4D4D4D?logo=terminal&logoColor=white&style=for-the-badge"/>
+  
+  
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge"/>
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge"/>
+  <img alt="MAMP" src="https://img.shields.io/badge/MAMP-02749C?logo=mamp&logoColor=white&style=for-the-badge"/>
+  
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge"/>
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge"/>
+  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=Adobe Premiere Pro&logoColor=white&style=for-the-badge"/>
   
  </p>
 
