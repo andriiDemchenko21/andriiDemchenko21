@@ -65,6 +65,7 @@ Technolodgy Stack:
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpMyAdmin&logoColor=white&style=for-the-badge"/>
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=MicrosoftSQLServer&logoColor=white&style=for-the-badge"/>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=IntelliJ IDEA&logoColor=white&style=for-the-badge"/>
   <img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?logo=Xcode&logoColor=white&style=for-the-badge"/>
