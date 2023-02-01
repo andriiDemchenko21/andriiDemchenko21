@@ -28,6 +28,8 @@ Technolodgy Stack:
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"/>
   
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=IntelliJ IDEA&logoColor=white&style=for-the-badge"/>
+  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?logo=Xcode&logoColor=white&style=for-the-badge"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-196D80?logo=java&logoColor=white&style=for-the-badge"/>
  </p>
 
 
