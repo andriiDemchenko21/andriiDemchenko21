@@ -20,6 +20,9 @@ Technolodgy Stack:
   
   <img alt="C Sharp" src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge"/>
+  <img alt="ADO.NET" src="https://img.shields.io/badge/ADO.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge"/>
+  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge"/>
+  <img alt=".NET Core" src="https://img.shields.io/badge/.NET Core-512BD4?logo=.net&logoColor=white&style=for-the-badge"/>
   <img alt="PHP" src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge"/>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge"/>
@@ -27,7 +30,7 @@ Technolodgy Stack:
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-02569B?logo=git&logoColor=white&style=for-the-badge"/>
  
-  
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white&style=for-the-badge"/>
   
   
   
