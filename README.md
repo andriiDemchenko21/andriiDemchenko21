@@ -60,11 +60,12 @@ Technolodgy Stack:
  </p>
  
  
+ Operating System familiar with:
  <p>
-  Operating System familiar with:
+  
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows 10-0078D6?logo=Windows&logoColor=white&style=for-the-badge"/>
   <img alt="Windows 11" src="https://img.shields.io/badge/Windows 11-0078D6?logo=Windows 11&logoColor=white&style=for-the-badge"/>
-  <img alt="macOS" src="https://img.shields.io/badge/macOS-0078D4?logo=macOS&logoColor=white&style=for-the-badge"/>
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-0078D4?logo=macOS&logoColor=black&style=for-the-badge"/>
   <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?logo=iOS&logoColor=white&style=for-the-badge"/>
  </p>
  
