@@ -18,7 +18,7 @@ Technolodgy Stack:
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
   
-  <img alt="C Sharp" src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge"/>
+  <img alt="C#" src="https://img.shields.io/badge/C#-239120?logo=csharp&logoColor=white&style=for-the-badge"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge"/>
   <img alt="ADO.NET" src="https://img.shields.io/badge/ADO.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge"/>
   <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge"/>
