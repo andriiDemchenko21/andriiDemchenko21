@@ -3,7 +3,7 @@ My name is Andrii and I am a web and mobile applications developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriiDemchenko21&layout=compact)](https://github.com/andriiDemchenko21/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriiDemchenko21)](https://github.com/andriiDemchenko21/github-readme-stats)
 <!--
 **andriiDemchenko21/andriiDemchenko21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
