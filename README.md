@@ -39,7 +39,7 @@ My name is Andrii and I am a web and mobile applications developer
   <img alt="UIkit" src="https://img.shields.io/badge/UIkit-2396F3?logo=UIkit&logoColor=white&style=for-the-badge"/>
 </div>
  
- Tools used:
+ <h1 align="center">Tools used</h1>
 <div align="center">
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"/>
@@ -67,8 +67,8 @@ My name is Andrii and I am a web and mobile applications developer
   <img alt="Visual Paradigm" src="https://img.shields.io/badge/Visual Paradigm-FF0000?logo=java&logoColor=white&style=for-the-badge"/>
 </div>
  
+  <h1 align="center">Operating System familiar with</h1>
  
- Operating System familiar with:
 <div align="center">
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows 10-0078D6?logo=Windows&logoColor=white&style=for-the-badge"/>
   <img alt="Windows 11" src="https://img.shields.io/badge/Windows 11-0078D6?logo=Windows 11&logoColor=white&style=for-the-badge"/>
