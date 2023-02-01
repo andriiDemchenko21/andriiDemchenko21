@@ -8,7 +8,7 @@ My name is Andrii and I am a web and mobile applications developer
 
 
 
-Technolodgy Stack:
+<h1>Technolodgy Stack<h1>
 
 <div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
