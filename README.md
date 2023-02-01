@@ -6,9 +6,6 @@ My name is Andrii and I am a web and mobile applications developer
 
 [![GitHub followers](https://img.shields.io/github/followers/andriiDemchenko21.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/andriiDemchenko21?tab=followers)
 
-[![GitHub commits](https://img.shields.io/github/commits-since/andriiDemchenko21/StrapDown.js/v1.0.0.svg)](https://GitHub.com/andriiDemchenko21/StrapDown.js/commit/)
-
-
 Technolodgy Stack:
 
 <p>
@@ -80,10 +77,14 @@ Technolodgy Stack:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriiDemchenko21)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andriiDemchenko21)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriiDemchenko21&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andriiDemchenko21)](https://git.io/streak-stats)
+
+
+
 <!--
 **andriiDemchenko21/andriiDemchenko21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
