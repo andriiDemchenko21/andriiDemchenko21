@@ -6,9 +6,7 @@ My name is Andrii and I am a web and mobile applications developer
 
 [![GitHub followers](https://img.shields.io/github/followers/andriiDemchenko21.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/andriiDemchenko21?tab=followers)
 
-[![GitHub commits](https://badgen.net/github/commits/AndriiDemchenko21/Strapdown.js)](https://GitHub.com/andriiDemchenko21/StrapDown.js/commit/)
-
-[![GitHub stars](https://badgen.net/github/stars/AndriiDemchenko21/Strapdown.js)](https://GitHub.com/AndriiDemchenko21/StrapDown.js/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/andriiDemchenko21/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/andriiDemchenko21/StrapDown.js/stargazers/)
 
 Technolodgy Stack:
 
