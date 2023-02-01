@@ -48,12 +48,14 @@ Technolodgy Stack:
   <img alt="OBS Studio" src="https://img.shields.io/badge/OBS Studio-302E31?logo=OBS Studio&logoColor=white&style=for-the-badge"/>
   
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge"/>
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?logo=Electron&logoColor=black&style=for-the-badge"/>
   <img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache Tomcat-F8DC75?logo=Apache Tomcat&logoColor=black&style=for-the-badge"/>
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=Express&logoColor=white&style=for-the-badge"/>
   <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000?logo=JetBrains&logoColor=white&style=for-the-badge"/>
   
   
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge"/>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring Boot&logoColor=white&style=for-the-badge"/>
   
  </p>
 
