@@ -6,6 +6,7 @@ Technolodgy Stack:
 
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-DD0031?logo=javascript&logoColor=white&style=flat"/>
  </p>
 
 
