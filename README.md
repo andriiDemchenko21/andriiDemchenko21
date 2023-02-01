@@ -48,7 +48,7 @@ Technolodgy Stack:
   <img alt="OBS Studio" src="https://img.shields.io/badge/OBS Studio-302E31?logo=OBS Studio&logoColor=white&style=for-the-badge"/>
   
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge"/>
-  <img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache Tomcat-F8DC75?logo=Apache Tomcat&logoColor=white&style=for-the-badge"/>
+  <img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache Tomcat-F8DC75?logo=Apache Tomcat&logoColor=black&style=for-the-badge"/>
   <img alt="Express.js" src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge"/>
   
  </p>
