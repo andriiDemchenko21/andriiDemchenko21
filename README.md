@@ -32,7 +32,7 @@ Technolodgy Stack:
   <img alt="Java" src="https://img.shields.io/badge/Java-196D80?logo=java&logoColor=white&style=for-the-badge"/>
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge"/>
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge"/>
-  <img alt="Terminal" src="https://img.shields.io/badge/Terminal-4D4D4D?logo=terminal&logoColor=white&style=for-the-badge"/>
+  <img alt="Terminal" src="https://img.shields.io/badge/Terminal-4D4D4D?logo=Windows Terminal&logoColor=white&style=for-the-badge"/>
   
   
   <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge"/>
