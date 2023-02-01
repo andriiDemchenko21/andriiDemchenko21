@@ -7,6 +7,10 @@ Technolodgy Stack:
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/TypeScript-339933?logo=node&logoColor=white&style=flat"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat"/>
+  <img alt="C Sharp" src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=flat"/>
  </p>
 
 
