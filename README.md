@@ -20,6 +20,9 @@ Technolodgy Stack:
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-F05032?logo=flutter&logoColor=white&style=for-the-badge"/>
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-02569B?logo=git&logoColor=white&style=for-the-badge"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=MicrosoftSQLServer&logoColor=white&style=for-the-badge"/>
  </p>
 
 
