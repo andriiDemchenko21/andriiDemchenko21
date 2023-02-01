@@ -10,7 +10,7 @@ My name is Andrii and I am a web and mobile applications developer
 
 Technolodgy Stack:
 
-<p>
+<div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"/>
@@ -56,7 +56,7 @@ Technolodgy Stack:
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring Boot&logoColor=white&style=for-the-badge"/>
   <img alt="UIkit" src="https://img.shields.io/badge/UIkit-2396F3?logo=UIkit&logoColor=white&style=for-the-badge"/>
   
- </p>
+</div>
  
  Tools used:
  <p>
