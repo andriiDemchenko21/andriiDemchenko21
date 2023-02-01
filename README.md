@@ -17,7 +17,9 @@ Technolodgy Stack:
   <img alt="PHP" src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white&style=flat"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat"/>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=flat"/>
-  <img alt="Git" src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=flat"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-F05032?logo=flutter&logoColor=white&style=flat"/>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat"/>
+  <img alt="Git" src="https://img.shields.io/badge/git-02569B?logo=git&logoColor=white&style=flat"/>
  </p>
 
 
