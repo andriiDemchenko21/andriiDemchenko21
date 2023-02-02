@@ -78,11 +78,15 @@ My name is Andrii and I am a web and mobile applications developer
 </div>
  
 
+ <div align="center">
+   ![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriiDemchenko21&show_icons=true&theme=radical)
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andriiDemchenko21)](https://git.io/streak-stats)
+ </div>
 
 
-![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriiDemchenko21&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andriiDemchenko21)](https://git.io/streak-stats)
+
+
 
 
 
