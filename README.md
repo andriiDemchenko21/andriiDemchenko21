@@ -1,10 +1,15 @@
 ### Hi there 👋
 My name is Andrii and I am a web and mobile applications developer 
 
-![Profile views](https://gpvc.arturio.dev/andriiDemchenko21)
+
+<div align="center">
+
+![Profile views](https://gpvc.arturio.dev/andriiDemchenko21) [![GitHub followers](https://img.shields.io/github/followers/andriiDemchenko21.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/andriiDemchenko21?tab=followers)
 
 
-[![GitHub followers](https://img.shields.io/github/followers/andriiDemchenko21.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/andriiDemchenko21?tab=followers)
+</div>
+
+
 
 
 
