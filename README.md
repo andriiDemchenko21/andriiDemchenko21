@@ -91,7 +91,7 @@ My name is Andrii and I am a web and mobile applications developer
    
    <br>
    
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andriiDemchenko21)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andriiDemchenko21&theme=android-dark&hide_border=true&border_radius=6.2&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
    
  </div>
 
