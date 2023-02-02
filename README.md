@@ -87,7 +87,7 @@ My name is Andrii and I am a web and mobile applications developer
    
    <br>
    
-   ![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriiDemchenko21&count_private=true&theme=radical)
+   ![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriiDemchenko21&count_private=true&show_icons=true&theme=dracula)
    
    <br>
    
