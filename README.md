@@ -74,6 +74,7 @@ Hello, I am a senior web and mobile application development student at New Bruns
   <img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache Tomcat-F8DC75?logo=Apache Tomcat&logoColor=black&style=for-the-badge"/>
   <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=Eclipse IDE&logoColor=white&style=for-the-badge"/>
   <img alt="Visual Paradigm" src="https://img.shields.io/badge/Visual Paradigm-FF0000?logo=java&logoColor=white&style=for-the-badge"/>
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white&style=for-the-badge"/>
 </div>
  
   <h1 align="center">Operating System familiar with</h1>
