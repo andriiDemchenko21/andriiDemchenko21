@@ -1,5 +1,9 @@
 ### Hi there 👋
-My name is Andrii and I am a web and mobile applications developer 
+<p>
+
+Hello, I am a senior web and mobile application development student at New Brunswick Community College. I am a confident and hardworking individual who is on his journey to becoming a full-stack developer. I like to find new ways of solutions, code, and learn new things every day. I have great teamwork experience because I was on the track and field team for six years, as well as had a lot of programming team projects in college with people from different countries and I have never had any issues. Also, I know three languages and would love to learn more.
+
+</p>
 
 
 <div align="center">
