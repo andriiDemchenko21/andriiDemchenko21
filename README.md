@@ -26,7 +26,7 @@ Hello, I am a senior web and mobile application development student at New Bruns
 
 
 
-<h1 align="center">Technolodgy Stack<h1>
+<h1 align="center">Technology Stack<h1>
 
 <div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
@@ -85,7 +85,7 @@ Hello, I am a senior web and mobile application development student at New Bruns
   <img alt="Visual Paradigm" src="https://img.shields.io/badge/Visual Paradigm-FF0000?logo=java&logoColor=white&style=for-the-badge"/>
 </div>
  
-  <h1 align="center">Operating System familiar with</h1>
+  <h1 align="center">Familiar operating systems</h1>
  
 <div align="center">
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows 10-0078D6?logo=Windows&logoColor=white&style=for-the-badge"/>
