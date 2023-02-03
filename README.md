@@ -15,11 +15,11 @@ Hello, I am a senior web and mobile application development student at New Bruns
 
 ![Profile views](https://gpvc.arturio.dev/andriiDemchenko21) [![GitHub followers](https://img.shields.io/github/followers/andriiDemchenko21.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/andriiDemchenko21?tab=followers)
 
-
 </div>
 
 
-<div align="center">
+<h3>Social Media<h3>
+<div align="left">
  <a href="https://www.linkedin.com/in/andrii-demchenko-1bbab022a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
 </div>
 
