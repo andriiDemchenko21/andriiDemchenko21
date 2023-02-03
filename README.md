@@ -1,5 +1,8 @@
 
-<img align="center" alt="Coding" width="800" src="https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp">
+<div align="center">
+  <img align="center" alt="Coding" width="800" src="https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp">
+ </div>
+
 
 <p>
 
