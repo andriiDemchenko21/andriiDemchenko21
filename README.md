@@ -20,7 +20,7 @@ Hello, I am a senior web and mobile application development student at New Bruns
 
 
 <div align="center">
- <a href="https://www.linkedin.com/in/andrii-demchenko-1bbab022a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/andrii-demchenko-1bbab022a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
 </div>
 
 
