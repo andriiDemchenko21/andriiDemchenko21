@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="400" src="http://mograph.video/Binary-4k](https://media4.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47idpvjezvcb43azn8763jvjegueotrbha1oby2zrg&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/QpVUMRUJGokfqXyfa1/…43azn8763jvjegueotrbha1oby2zrg&rid=giphy.gif&ct=g">
 
 <p>
 
