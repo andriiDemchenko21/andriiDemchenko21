@@ -104,7 +104,7 @@ Hello, I am a senior web and mobile application development student at New Bruns
    
    <br>
    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andriiDemchenko21&theme=android-dark&hide_border=true&border_radius=6.2&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andriiDemchenko21&count_private=true&theme=android-dark&hide_border=true&border_radius=6.2&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
    
  </div>
 
