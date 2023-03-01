@@ -55,6 +55,7 @@ Hello, I am a senior web and mobile application development student at New Bruns
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge"/>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring Boot&logoColor=white&style=for-the-badge"/>
   <img alt="UIkit" src="https://img.shields.io/badge/UIkit-2396F3?logo=UIkit&logoColor=white&style=for-the-badge"/>
+  <img alt="SQL" src="https://img.shields.io/badge/Slides-CC2927?logo=Slides&logoColor=white&style=for-the-badge"/>
 </div>
  
  <h1 align="center">Tools used</h1>
