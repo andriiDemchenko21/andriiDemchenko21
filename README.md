@@ -104,13 +104,7 @@ Hello, I am a senior web and mobile application development student at New Bruns
    ![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriiDemchenko21&count_private=true&show_icons=true&theme=highcontrast)
    
    <br>
-   
-   
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriiDemchenko21&count-private=true&layout=compact)]
-   
-   
-   
+      
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andriiDemchenko21&count_private=true&theme=android-dark&hide_border=true&border_radius=6.2&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
    
    
