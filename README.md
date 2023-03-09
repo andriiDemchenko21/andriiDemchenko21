@@ -107,7 +107,7 @@ Hello, I am a senior web and mobile application development student at New Bruns
    
    
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriiDemchenko21&layout=compact&count-private=true)]
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriiDemchenko21&count-private=true&layout=compact)]
    
    
    
