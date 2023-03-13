@@ -54,8 +54,8 @@ Hello, I am a senior web and mobile application development student at New Bruns
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=Express&logoColor=white&style=for-the-badge"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge"/>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring Boot&logoColor=white&style=for-the-badge"/>
-  <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-6DB33F?logo=Thymeleaf&logoColor=white&style=for-the-badge"/>
-  <img alt="UIkit" src="https://img.shields.io/badge/UIkit-005F0F?logo=UIkit&logoColor=white&style=for-the-badge"/>
+  <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?logo=Thymeleaf&logoColor=white&style=for-the-badge"/>
+  <img alt="UIkit" src="https://img.shields.io/badge/UIkit-2396F3?logo=UIkit&logoColor=white&style=for-the-badge"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?logo=Slides&logoColor=white&style=for-the-badge"/>
 </div>
  
