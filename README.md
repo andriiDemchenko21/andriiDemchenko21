@@ -11,12 +11,6 @@ Hello, I am Andrii
 </h4>
 
 
-<div align="center">
-
-![Profile views](https://gpvc.arturio.dev/andriiDemchenko21) [![GitHub followers](https://img.shields.io/github/followers/andriiDemchenko21.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/andriiDemchenko21?tab=followers)
-
-</div>
-
 
 <h3>Social Media<h3>
 <div align="left">
