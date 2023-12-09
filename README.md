@@ -6,7 +6,7 @@
 
 <h4>
 
-Hello, I am a senior web and mobile application development student at New Brunswick Community College. I am a confident and hardworking individual who is on his journey to becoming a full-stack developer. I like to find new ways of solutions, code, and learn new things every day. I have great teamwork experience because I was on the track and field team for six years, as well as had a lot of programming team projects in college with people from different countries. Also, I know three languages (English, Ukrainian, Russian) and would love to learn more.
+Hello, I am Andrii
 
 </h4>
 
@@ -98,20 +98,7 @@ Hello, I am a senior web and mobile application development student at New Bruns
 </div>
  
 
- <div align="center">
-   
-   <br>
-   
-   ![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriiDemchenko21&count_private=true&show_icons=true&theme=highcontrast)
-   
-   <br>
-      
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andriiDemchenko21&count_private=true&theme=android-dark&hide_border=true&border_radius=6.2&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-   
-   
-   
-   
- </div>
+
 
 
 
